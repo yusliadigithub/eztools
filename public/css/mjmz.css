@@ -1,0 +1,32 @@
+#idletimeout {
+    background: none repeat scroll 0 0 #CC5100;
+    border: 3px solid #FF6500;
+    color: #FFFFFF;
+    display: none;
+    font-family: arial,sans-serif;
+    font-size: 12px;
+    left: 0;
+    padding: 10px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    z-index: 100000;
+}
+
+#idletimeout a {
+    color: white;
+    text-decoration: underline;
+}
+
+body.modal-open .supreme-container{
+    -webkit-filter: blur(10px);
+    -moz-filter: blur(10px);
+    -o-filter: blur(10px);
+    -ms-filter: blur(10px);
+    filter: blur(10px);
+}
+
+.table-condensed{
+  font-size: 12px;
+}

@@ -1,0 +1,49 @@
+.text-white {
+	color: white !important;
+}
+
+.search-text {
+	margin-top: 10px;
+}
+
+ul.dropdown-menu, ul.dropdown-menu li {
+	background-color: black !important;
+	min-width: inherit !important;
+}
+
+.product .product-body .product-name {
+	font-size: 12px !important;
+}
+
+table.summary td {
+	padding-top: 5px;
+	/*font-size: 12px !important;*/
+}
+
+strong.order-total {
+	/*font-size: 20px !important;*/
+	color: #D10024 !important;
+}
+
+tr.total td {
+	padding-top: 20px;
+}
+
+tr.border-btm {
+	line-height: 1.42857143;
+	border-bottom: 1px solid #e8eaed;
+}
+
+.margin-right-5 {
+	margin-right: 5px;
+}
+
+.badge-success {
+	color: #fff;
+	background-color: #28a745
+}
+
+.badge-warning {
+	color: #212529;
+	background-color: #ffc107;
+}
